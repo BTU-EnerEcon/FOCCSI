@@ -1,19 +1,14 @@
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![MIT License][license-shield]][license-url]
-[![Chair Page][ChairPage-shield]][ChairPage-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/BTU-EnerEcon/FOCCSI">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/BTU-EnerEcon/FOCCSI/blob/main/images/logo.PNG" alt="Logo">
   </a>
 
-  <h3 align="center">FOCCSI Meta Forecaster</h3>
+  <h2 align="center">FOCCSI Meta Forecaster</h2>
 
   <p align="center">
-    Correction and combination methods for forecasting to improve system integration of renewable energies (FOCCSI)
+FOCCSI Meta forecaster allows users to combine individual forecasts of photovoltaic or wind feed-in into a meta forecast. The tool is open to all users interested to obtain more precise combined forecast of renewable energy.
   </p>
 </p>
 
@@ -62,7 +57,7 @@ If if think it requires explanation
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This space is to show useful examples of how a project can be used. screenshots and demos work well in this space.
+This space is to show useful examples of how a project can be used. Screenshots and demos would work well in this space.
 
 <!-- LICENSE -->
 ## License
@@ -81,14 +76,3 @@ Dragana's contacts, chair page.
 * []()
 * []()
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
-[ChairPage-shield]: https://img.shields.io/website
-[ChairPage-url]: https://www.b-tu.de/en/fg-energiewirtschaft

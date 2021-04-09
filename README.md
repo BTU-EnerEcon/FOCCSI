@@ -44,6 +44,11 @@ Precise forecasts for the feed-in of fluctuating renewable energies and current 
 
 Federal Ministry of Economic Affairs and Energy
 
+<!-- USAGE EXAMPLES -->
+## Usage
+
+This space is to show useful examples of how a project can be used. Screenshots and demos would work well in this space.
+
 <!-- Prerequisites -->
 ### Prerequisites
 
@@ -52,12 +57,9 @@ if any (e.g. Browsers supported)
 <!-- USAGE EXAMPLES -->
 ### Registration
 
-If if think it requires explanation
+Maybe a snapshot of registration page?
+To skip if it does not require explanation
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-This space is to show useful examples of how a project can be used. Screenshots and demos would work well in this space.
 
 <!-- LICENSE -->
 ## License

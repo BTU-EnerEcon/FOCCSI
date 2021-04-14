@@ -1,0 +1,837 @@
+{
+  "languages": ["key", "en", "de"],
+    "translation": [
+      {
+        "key": "Forecasting",
+        "en": "Forecasting",
+        "de": "Prognosefehler"
+      },
+      {
+        "key": "VS",
+        "en": "vs",
+        "de": "vs"
+      },
+      {
+        "key": "Error",
+        "en": "Error",
+        "de": "Fehler"
+      },
+      {
+        "key": "Chart1",
+        "en": "Forecasting_Error_Individual_Forecasts_Yearly",
+        "de": "Prognosefehler_Einzelprognosen_Jaehrlich"
+      },
+      {
+        "key": "Chart2",
+         "en": "Forecasting_Error_Relative_To_Installed_Capacity_Yearly",
+         "de": "Prognosefehler_bezüglich_der_installierten_Leistung_Jaehrlich"
+      },
+      {
+        "key": "Chart3",
+         "en": "Forecasting_Error_Combined_Forecasts_Monthly",
+         "de": "Prognosefehler_der_kombinierten_Prognosen_Monatlich"
+      },
+      {
+        "key": "Chart4",
+         "en": "Forecasting_Error_Combined_Forecasts_Envelope_Monthly",
+         "de": "Prognosefehler_der_Kombinierten_Prognosen_Einhuellende_Monatlich"
+      },
+      {
+        "key": "Chart5",
+         "en": "Combined_Forecast_with_DELNET_vs_Combined_Forecast_Monthly",
+         "de": "kombinierte_Prognose_mit_DELNET_vs_kombinierte_Prognose_Monatlich"
+      },
+      {
+        "key": "Chart6",
+         "en": "Combined_Forecast_with_DELNET_vs_Combined_Forecast_Yearly",
+         "de": "kombinierte_Prognose_mit_DELNET_vs_kombinierte_Prognose_Jaerlich"
+      },
+      {
+        "key":"Forecast_Error_Provider",
+        "en":"Forecast_Error_Provider",
+        "de":"Prognosefehler_Anbieter"
+      },
+      
+      {
+        "key": "Forecast_Error_Provider_TITLE",
+        "en": "Forecasting Error Provider",
+        "de": "Prognosefehler Anbieter"
+      },
+      {
+        "key": "Forecast_Error_Provider_LEGEND_TITLE",
+        "en": "Legend",
+        "de": "Legende"
+      },
+      {
+        "key": "Forecast_Error_Provider_Y_TITLE",
+        "en": "Forecasting Error",
+        "de": "Prognosefehler"
+      },
+      {
+        "key": "Z",
+        "en": "Time",
+        "de": "Zeitangaben"
+      },
+      {
+        "key": "PF_A1",
+        "en": "Forecast 1",
+        "de": "Prognose 1"
+      },
+      {
+        "key": "PF_A2",
+        "en": "Forecast 2",
+        "de": "Prognose 2"
+      },
+      {
+        "key": "PF_A3",
+        "en": "Forecast 3",
+        "de": "Prognose 3"
+      },
+      {
+        "key": "PF_A4",
+        "en": "Forecast 4",
+        "de": "Prognose 4"
+      },
+      {
+        "key": "PF_A5",
+        "en": "Forecast 5",
+        "de": "Prognose 5"
+      },
+      {
+        "key": "PF_A6",
+        "en": "Forecast 6",
+        "de": "Prognose 6"
+      },
+      {
+        "key": "PF_A7",
+        "en": "Forecast 7",
+        "de": "Prognose 7"
+      },
+      {
+        "key":"Forecast_Error_Total",
+        "en":"Forecast_Error_Total",
+        "de":"Prognosefehler_Gesamt"
+      },
+      {
+        "key": "Forecast_Error_Total_TITLE",
+        "en": "Forecast Error Total",
+        "de": "Prognosefehler Gesamt"
+      },
+      {
+        "key": "Forecast_Error_Total_LEGEND_TITLE",
+        "en": "Legend",
+        "de": "Legende"
+      },
+      {
+        "key": "Forecast_Error_Total_Y_TITLE",
+        "en": "Forecasting Error Total",
+        "de": "Prognosefehler Gesamt"
+        
+      },
+      {
+        "key": "K",
+        "en": "Combined forecast ",
+        "de": "Kombiprognose"
+      },
+      {
+        "key": "AM",
+        "en": "Simple average",
+        "de": "arithmetisches Mittel"
+      },
+      {
+        "key": "BTU",
+        "en": "Combined forecast with DELNET",
+        "de": "Kombinierte Prognose mit DELNET"
+      },
+      {
+        "key": "PF_AM",
+        "en": "Forecasting error of simple average",
+        "de": "Prognosefehlers der AM"
+      },
+      {
+        "key": "PF_K",
+        "en": "Forecasting error of combined forecast",
+        "de": "Prognosefehlers der Kombiprognose"
+      },
+      {
+        "key": "PF_BTU",
+        "en": "Forecasting error of BTU",
+        "de": "Prognosefehlers der BTU Prognose"
+      },
+      {
+        "key":"Error_Mass",
+        "en":"Error_Mass",
+        "de":"Fehlermasse"
+      },
+      {
+        "key": "Error_Mass_TITLE",
+        "en": "Error_Mass_TITLE",
+        "de": "Error_Mass_TITLE"
+      },
+      {
+        "key": "Error_Mass_LEGEND_TITLE",
+        "en": "Legend",
+        "de": "Legende"
+      },
+      {
+        "key": "A1",
+        "en": "Forecast 1",
+        "de": "Prognose 1"
+      },
+      {
+        "key": "A2",
+        "en": "Forecast 2",
+        "de": "Prognose 2"
+      },
+      {
+        "key": "A3",
+        "en": "Forecast 3",
+        "de": "Prognose 3"
+      },
+      {
+        "key": "A4",
+        "en": "Forecast 4",
+        "de": "Prognose 4"
+      },
+      {
+        "key": "A5",
+        "en": "Forecast 5",
+        "de": "Prognose 5"
+      },
+      {
+        "key": "A6",
+        "en": "Forecast 6",
+        "de": "Prognose 6"
+      },
+      {
+        "key": "A7",
+        "en": "Forecast 7",
+        "de": "Prognose 7"
+      },
+      {
+        "key": "Error_Measures_Yearly",
+        "en":"Error_Measures_Yearly",
+        "de":"Fehlermasse_Jaehrlich"
+      },
+      {
+        "key": "installierte Leistung (in MW)",
+        "en": "Installed capacity (in MW)",
+        "de": "installierte Leistung (in MW)"
+      },
+      {
+        "key": "mittlere Einspeisung (in MW)",
+        "en": "Average feed (in MW)",
+        "de": "mittlere Einspeisung (in MW)"
+      },
+      {
+        "key": "mse_AM_J",
+        "en": "Mean-Squared-Error of simple average",
+        "de": "Mean-Squared-Error der AM"
+      },
+      {
+        "key": "mse_K_J",
+        "en": "Mean-Squared-Error of combined forecast",
+        "de": "Mean-Squared-Error der Kombiprognose"
+      },
+      {
+        "key":"mse_BTU_J",
+        "en": "Mean-Squared-Error of BTU forecast",
+        "de": "Mean-Squared-Error der BTU Prognose"
+      },
+      {
+        "key": "mae_AM_J",
+        "en": "Mean-Absolute-Error of simple average",
+        "de": "Mean-Absolute-Error der AM"
+        
+      },
+      {
+        "key": "mae_K_J",
+        "en": "Mean-Absolute-Error of combined forecast",
+        "de": "Mean-Absolute-Error der Kombiprognose"
+      },
+      {
+        "key": "mae_BTU_J",
+        "en": "Mean-Absolute-Error of BTU forecast",
+        "de": "Mean-Absolute-Error der BTU Prognose"
+      },
+      {
+        "key": "me_AM_J",
+        "en": "Mean-Error of simple average",
+        "de": "Mean-Error der AM"
+      },
+      {
+        "key": "me_K_J",
+        "en": "Mean-Error of combined forecast",
+        "de": "Mean-Error der Kombiprognose"
+      },
+      {
+        "key": "me_BTU_J",
+        "en": "Mean-Error of BTU forecast",
+        "de": "Mean-Error der BTU Prognose"
+      },
+      {
+        "key": "me_A1_J",
+        "en": "Mean-Error of provider 1",
+        "de": "Mean-Error der A1 Prognose"
+      },
+      {
+        "key": "me_A2_J",
+        "en": "Mean-Error of provider 2",
+        "de": "Mean-Error der A2 Prognose"
+      },
+      {
+        "key": "me_A3_J",
+        "en": "Mean-Error of provider 3",
+        "de": "Mean-Error der A3 Prognose"
+      },
+      {
+        "key": "me_A4_J",
+        "en": "Mean-Error of provider 4",
+        "de": "Mean-Error der A4 Prognose"
+      },
+      {
+        "key": "me_A5_J",
+        "en": "Mean-Error of provider 5",
+        "de": "Mean-Error der A5 Prognose"
+      },
+      {
+        "key": "me_A6_J",
+        "en": "Mean-Error of provider 6",
+        "de": "Mean-Error der A6 Prognose"
+      },
+      {
+        "key": "me_A7_J",
+        "en": "Mean-Error of provider 7",
+        "de": "Mean-Error der A7 Prognose"
+      },
+      {
+         "key":"mae_A1_J",
+        "en": "Mean-Absolute-Error of provider 1",
+        "de": "Mean-Absolute-Error der A1 Prognose"
+      },
+      {
+         "key":"mae_A2_J",
+        "en": "Mean-Absolute-Error of provider 2",
+        "de": "Mean-Absolute-Error der A2 Prognose"
+      },
+      {
+         "key":"mae_A3_J",
+        "en": "Mean-Absolute-Error of provider 3",
+        "de": "Mean-Absolute-Error der A3 Prognose"
+      },
+      {
+         "key":"mae_A4_J",
+        "en": "Mean-Absolute-Error of provider 4",
+        "de": "Mean-Absolute-Error der A4 Prognose"
+      },
+      {
+         "key":"mae_A5_J",
+        "en": "Mean-Absolute-Error of provider 5",
+        "de": "Mean-Absolute-Error der A5 Prognose"
+      },
+      {
+         "key":"mae_A6_J",
+        "en": "Mean-Absolute-Error of provider 6",
+        "de": "Mean-Absolute-Error der A6 Prognose"
+      },
+      {
+         "key":"mae_A7_J",
+        "en": "Mean-Absolute-Error of provider 7",
+        "de": "Mean-Absolute-Error der A7 Prognose"
+      },
+      {
+        "key": "Error_Measures_Monthly",
+        "en":"Error_Measures_Monthly",
+        "de":"Fehlermasse_Monatlich"
+      },
+      {
+        "key": "Anbieteranzahl_M",
+        "en": "No of providers (Monthly)",
+        "de": "Anbieteranzahl (Monatszahlen)"
+      },
+      {
+        "key": "mse_AM_M",
+        "en": "Mean-Squared-Error of simple average (Monthly)",
+        "de": "Mean-Squared-Error der AM (Monatszahlen)"
+      },
+      {
+        "key": "mse_K_M",
+        "en": "Mean-Squared-Error of combined forecast (Monthly)",
+        "de": "Mean-Squared-Error der Kombiprognose (Monatszahlen)"
+        
+      },
+      {
+        "key":"mse_BTU_M",
+        "en": "Mean-Absolute-Error of BTU forecast (Monthly)",
+        "de": "Mean-Absolute-Error der BTU Prognose (Monatszahlen)"
+      },
+      {
+        "key": "mae_AM_M",
+        "en": "Mean-Absolute-Error of simple average (Monthly)",
+        "de": "Mean-Absolute-Error der AM (Monatszahlen)"
+        
+      },
+      {
+        "key": "mae_K_M",
+        "en": "Mean-Absolute-Error of combined forecast (Monthly)",
+        "de": "Mean-Absolute-Error der Kombiprognose (Monatszahlen)"
+      },
+      {
+        "key": "mae_BTU_M",
+        "en": "Mean-Absolute-Error of BTU forecast (Monthly)",
+        "de": "Mean-Absolute-Error der BTU Prognose (Monatszahlen)"
+      },
+      {
+        "key": "me_AM_M",
+        "en": "Mean-Error of simple average (Monthly)",
+        "de": "Mean-Error der AM (Monatszahlen)"
+      },
+      {
+        "key": "me_K_M",
+        "en": "Mean-Error of combined forecast (Monthly)",
+        "de": "Mean-Error der Kombiprognose (Monatszahlen)"
+      },
+      {
+        "key": "me_BTU_M",
+        "en": "Mean-Error of BTU forecast",
+        "de": "Mean-Error der BTU Prognose"
+      },
+      {
+        "key": "me_A1_M",
+        "en": "Mean-Error of provider 1 (Monthly)",
+        "de": "Mean-Error der A1 Prognose (Monatszahlen)"
+      },
+      
+      {
+        "key": "me_A2_M",
+        "en": "Mean-Error of provider 2 (Monthly)",
+        "de": "Mean-Error der A2 Prognose (Monatszahlen)"
+      },      
+      
+      {
+        "key": "me_A3_M",
+        "en": "Mean-Error of provider 3 (Monthly)",
+        "de": "Mean-Error der A3 Prognose (Monatszahlen)"
+      },
+      
+      {
+        "key": "me_A4_M",
+        "en": "Mean-Error of provider 4 (Monthly)",
+        "de": "Mean-Error der A4 Prognose (Monatszahlen)"
+      },      
+      {
+        "key": "me_A5_M",
+        "en": "Mean-Error of provider 5 (Monthly)",
+        "de": "Mean-Error der A5 Prognose (Monatszahlen)"
+      },      
+      {
+        "key": "me_A6_M",
+        "en": "Mean-Error of provider 6 (Monthly)",
+        "de": "Mean-Error der A6 Prognose (Monatszahlen)"
+      },
+      {
+        "key": "me_A7_M",
+        "en": "Mean-Error of provider 7 (Monthly)",
+        "de": "Mean-Error der A7 Prognose (Monatszahlen)"
+      },      
+      {
+         "key":"mae_A1_M",
+        "en": "Mean-Absolute-Error of provider 1 (Monthly)",
+        "de": "Mean-Absolute-Error der A1 Prognose (Monatszahlen)"
+      },
+       {
+         "key":"mae_A2_M",
+        "en": "Mean-Absolute-Error of provider 2 (Monthly)",
+        "de": "Mean-Absolute-Error der A2 Prognose (Monatszahlen)"
+      },     
+      {
+        "key":"mae_A3_M",
+        "en": "Mean-Absolute-Error of provider 3 (Monthly)",
+        "de": "Mean-Absolute-Error der A3 Prognose (Monatszahlen)"
+      },      
+      
+      {
+         "key":"mae_A4_M",
+        "en": "Mean-Absolute-Error of provider 4 (Monthly)",
+        "de": "Mean-Absolute-Error der A4 Prognose (Monatszahlen)"
+      },
+      {
+         "key":"mae_A5_M",
+        "en": "Mean-Absolute-Error of provider 5 (Monthly)",
+        "de": "Mean-Absolute-Error der A5 Prognose (Monatszahlen)"
+      },      
+      {
+         "key":"mae_A6_M",
+        "en": "Mean-Absolute-Error of provider 6 (Monthly)",
+        "de": "Mean-Absolute-Error der A6 Prognose (Monatszahlen)"
+      },      
+      {
+         "key":"mae_A7_M",
+        "en": "Mean-Absolute-Error of provider 7 (Monthly)",
+        "de": "Mean-Absolute-Error der A7 Prognose (Monatszahlen)"
+      },      
+      {
+        "key": "Descriptive_Statistics",
+        "en": "Descriptive_Statistics",
+        "de": "Deskriptive_Statistiken"
+      },
+      {
+        "key": "Descriptive_Statistics_TITLE",
+        "en": "Descriptive Statistics ",
+        "de": "Deskriptive Statistiken"
+      },
+      {
+        "key": "Descriptive_Statistics_LEGEND_TITLE",
+        "en": "Legend",
+        "de": "Legende"
+      },
+      {
+        "key": "ME",
+        "en": "Mean Error",
+        "de": "Mittlerer Fehler"
+      },
+      {
+        "key": "MAE",
+        "en": "Mean Absolute Error",
+        "de": "Mittlerer absolute Fehler"
+      },
+      {
+        "key": "MSE",
+        "en": "Mean Squared Error",
+        "de": "Mittlerer quadratischer Fehler"
+        
+      },
+      {
+        "key": "SD",
+        "en": "Standard Deviation",
+        "de": "Standard Deviation"
+      },
+      {
+        "key": "me_HR_J",
+        "en": "Mean-Error of the very precise realization",
+        "de": "Mean-Error der Hochgerechnete Istwerte"
+      },
+      {
+        "key":"sd_HR_J",
+        "en": "Standard Deviation of the very precise realization",
+        "de": "Standard Deviation der Hochgerechnete Istwerte"
+      },
+      {
+        "key": "sd_K_J",
+        "en": "Standard Deviation of the combined forecast",
+        "de": "Standard Deviation der Kombiprognose"
+      },
+      {
+        "key": "sd_A1_J",
+        "en": "Standard Deviation of provider 1",
+        "de": "Standard Deviation der A1 Prognose"
+        
+      },
+      {
+        "key": "sd_A2_J",
+        "en": "Standard Deviation of provider 2",
+        "de": "Standard Deviation der A2 Prognose"
+        
+      },
+      {
+        "key": "sd_A3_J",
+        "en": "Standard Deviation of provider 3",
+        "de": "Standard Deviation der A3 Prognose"
+        
+      },
+      {
+        "key": "sd_A4_J",
+        "en": "Standard Deviation of provider 4",
+        "de": "Standard Deviation der A4 Prognose"
+        
+      },
+      {
+        "key": "sd_A5_J",
+        "en": "Standard Deviation of provider 5",
+        "de": "Standard Deviation der A5 Prognose"
+        
+      },      
+      {
+        "key": "sd_A6_J",
+        "en": "Standard Deviation of provider 6",
+        "de": "Standard Deviation der A6 Prognose"
+        
+      },      
+      {
+        "key": "sd_A7_J",
+        "en": "Standard Deviation of provider 7",
+        "de": "Standard Deviation der A7 Prognose"
+        
+      },
+      
+      {
+         "key":"CHART1_TITLE",
+         "en": "Forecasting Error: Individual Forecasts (yearly)",
+         "de": "Prognosefehler: Einzelprognosen (jährlich)"
+      },
+      {
+        "key": "LEGEND1_TITLE",
+        "en": "Legend",
+        "de": "Legende"
+      },
+      {
+        "key": "CHART1_Y_TITLE",
+        "en": "Mean Squared Error (in MW<sup>2</sup>)",
+        "de": "Mittlerer quadratischer Fehler (in MW<sup>2</sup>)"
+      },
+      {
+         "key":"Jahr",
+         "en": "Year",
+         "de": "Jahr"
+      },
+      {
+        "key":"mse_A1_J",
+        "en": "Forecast 1",
+        "de": "Prognose 1"
+      },
+      {
+        "key":"mse_A2_J",
+        "en": "Forecast 2",
+        "de": "Prognose 2"
+      },
+      {
+        "key":"mse_A3_J",
+        "en": "Forecast 3",
+        "de": "Prognose 3"
+      },
+      {
+        "key":"mse_A4_J",
+        "en": "Forecast 4",
+        "de": "Prognose 4"
+      },
+      {
+        "key":"mse_A5_J",
+        "en": "Forecast 5",
+        "de": "Prognose 5"
+      },      
+      {
+        "key":"mse_A6_J",
+        "en": "Forecast 6",
+        "de": "Prognose 6"
+      },      
+      {
+        "key":"mse_A7_J",
+        "en": "Forecast 7",
+        "de": "Prognose 7"
+      },      
+      
+      {
+         "key":"MW_J",
+         "en":"Currently installed total capacity (in MW)",
+         "de": "Momentan installierte Gesamtleistung (in MW)"
+      },
+      {
+         "key":"JMW",
+         "en": "JWM",
+         "de": "JWM"
+      },
+      {
+         "key":"CHART2_TITLE",
+         "en": "Forecasting Error relative to installed capacity (yearly)",
+         "de": "Prognosefehler bezüglich der installierten Leistung (jährlich)"
+         
+      },
+      {
+        "key": "LEGEND2_TITLE",
+        "en": "Legend",
+        "de": "Legende"
+      },
+      {
+        "key": "CHART2_Y_TITLE",
+        "en": "Mean Squared Error/Installed Capacity",
+        "de": "Mittlerer quadratischer Fehler/Installierte Leistung"
+      },
+      {
+         "key":"mse_A1_J/JMW",
+         "en": "Forecast 1",
+         "de": "Prognose 1"
+      },
+      {
+         "key":"mse_A2_J/JMW",
+         "en": "Forecast 2",
+         "de": "Prognose 2"
+      },
+      {
+         "key":"mse_A3_J/JMW",
+         "en": "Forecast 3",
+         "de": "Prognose 3"
+      },      
+      {
+         "key":"mse_A4_J/JMW",
+         "en": "Forecast 4",
+         "de": "Prognose 4"
+      },  
+      {
+         "key":"mse_A5_J/JMW",
+         "en": "Forecast 5",
+         "de": "Prognose 5"
+      },
+      {
+         "key":"mse_A6_J/JMW",
+         "en": "Forecast 6",
+         "de": "Prognose 6"
+      },  
+      {
+         "key":"mse_A7_J/JMW",
+         "en": "Forecast 7",
+         "de": "Prognose 7"
+      },        
+      {
+        "key": "Monat",
+        "en": "Month",
+        "de": "Monat"
+      },
+      {
+         "key":"CHART3_TITLE",
+         "en": "Forecasting Error: Combined Forecasts (monthly)",
+         "de": "Fehlermasse der kombinierten Prognosen (monatlich)"
+      },
+      {
+        "key": "LEGEND3_TITLE",
+        "en": "Legend",
+        "de": "Legende"
+      },
+      {
+        "key": "CHART3_Y_TITLE",
+        "en": "Mean Squared Error (in MW<sup>2</sup>)",
+        "de": "Mittlerer quadratischer Fehler (in MW<sup>2</sup>)"
+      },
+      {
+        "key": "MEAN_SQUARED_ERROR",
+        "en": "Mean Squared Error (in MW<sup>2</sup>)",
+        "de": "Mittlerer quadratischer Fehler (in MW<sup>2</sup>)"
+      },
+      {
+        "key": "mse_AM",
+        "en": "Mean-Squared-Error of simple average",
+        "de": "Mittlerer quadratischer Fehler des aritmetischen Mittels"
+      },
+      {
+        "key": "mse_K",
+        "en": "Mean-Squared-Error of combined forecast",
+        "de": "Mittlerer quadratischer Fehler der Kombiprognose"
+      },
+      {
+        "key": "mse_BTU",
+        "en": "Mean-Squared-Error of combined forecast with DELNET",
+        "de": "Mittlerer quadratischer Fehler der kombinierten Prognose mit DELNET"
+      },
+      {
+        "key": "Anbieteranzahl",
+        "en": "No. of providers",
+        "de": "Anbieteranzahl"
+      },
+      {
+         "key":"CHART4_TITLE",
+         "en": "Forecasting Error: Combined Forecasts (monthly)",
+         "de": "Fehlermasse der kombinierten Prognosen (monatlich)"
+      },
+      {
+        "key": "LEGEND4_TITLE",
+        "en": "Legend",
+        "de": "Legende"
+      },
+      {
+        "key": "CHART4_Y_TITLE",
+        "en": "Mean Forecasting Error (in MW)",
+        "de": "Durchschnittlicher Prognose Fehler (in MW)"
+      },
+      {
+        "key": "Obere",
+        "en": "Top",
+        "de": "Obere"
+      },
+      {
+        "key": "Untere",
+        "en": "Bottom",
+        "de": "Untere"
+
+      },
+      {
+        "key": "Anbieter",
+        "en": "Provider",
+        "de":  "Anbieter"
+      },
+      {
+         "key":"CHART5_TITLE",
+         "en": "Comparison: combined forecast with DELNET vs combined forecast (monthly)",
+         "de": "Vergleich: kombinierte Prognose mit DELNET vs. kombinierte Prognose (monatlich)"
+      },
+      {
+        "key": "LEGEND5_TITLE",
+        "en": "Legend",
+        "de": "Legende"
+      },
+      {
+        "key":"CHART5_Y_TITLE",
+        "en": "Comparison (in MW): negative (improvement), positive (deterioration)",
+        "de": "Vergleich (in MW): negativ (Verbesserung), positiv (Verschlechterung)"
+      },
+      {
+        "key": "Vergleich",
+        "en": "Comparison (in MW)",
+        "de": "Vergleich (in MW)"
+
+      },
+      {
+        "key":"Durchschnitt",
+        "en": "Average",
+        "de": "Durchschnitt"
+
+      },
+      {
+        "key":"Verbesserung",
+        "en": "Improvement",
+        "de":"Verbesserung"
+
+      },
+      {
+        "key": "Anzahl",
+        "en": "Number",
+        "de": "Anzahl"
+      },
+      {
+        "key": "Verschlechterung",
+        "en": "Worsening",
+        "de": "Verschlechterung"
+
+      },
+      {
+         "key":"CHART6_TITLE",
+         "en": "Comparison: combined forecast with DELNET vs combined forecast (yearly)",
+         "de": "Vergleich: kombinierte Prognose mit DELNET vs. kombinierte Prognose (jährlich)"
+      },
+      {
+        "key": "LEGEND6_TITLE",
+        "en": "Legend",
+        "de": "Legende"
+      },
+      {
+        "key": "CHART6_Y_TITLE",
+        "en": "Comparison (in MW): negative (improvement), positive (deterioration)",
+        "de": "Vergleich (in MW): negativ (Verbesserung), positiv (Verschlechterung)"
+      },
+      {
+        "key": "AK",
+        "en": "Provider_Coefficients",
+        "de": "Anbieterkoeffizienten"
+      },
+      {
+        "key": "ZAG",
+        "en": "Number of providers that were actually used in one day",
+        "de": "Anzahl der Anbieter, welche tatsächlich an einem Tag genutzt wurden"
+      },
+      {
+        "key": "ASG",
+        "en": "ASG",
+        "de": "Anbieter.stat.grund"
+      }
+
+  ]
+}
+

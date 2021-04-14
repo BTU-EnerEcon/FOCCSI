@@ -1,0 +1,11 @@
+^.*\.RData$
+^.*\.RHistory$
+^.*\.Rprofile$
+^.*\.Rproj$
+^\.Rproj\.user$
+^tests/*$
+^tests$
+^build/*$
+^build$
+^etc/*$
+^etc$

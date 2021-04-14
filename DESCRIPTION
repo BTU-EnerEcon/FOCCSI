@@ -1,0 +1,28 @@
+Package: btuenergyforecastr
+Type: Package
+Title: BTU Energy Forecaster
+Version: 1.1.3
+Authors@R: c(
+    person("Team", "FOCSSI", email = "fg-energiewirtschaft+foccsi@b-tu.de", role = c("aut", "cre"))
+    )
+Description:"The implementation of the FOCSSi (Forecast Optimisation by Correction and Combination methods for System Integration) energy price forecasting. FOCSSI is a three-year research project funded by the Federal Ministry of Economic Affairs and Energy. It pursues the improvement of energy-related forecasts, such as the prediction of generated wind energy, over all time horizons. It thus contributes to the system integration of renewable energies into existing energy systems at the national and international levels. Therefore, better forecasts indirectly contribute to the achievement of the fundamental energy transition goals: They reduce dependence on energy imports, ensure affordable energy costs and make an important contribution to solving global climate problems. "
+License: GPL-3
+URL: ""
+Encoding: UTF-8
+Depends: R (>= 4.0.0)
+RoxygenNote: 7.1.1
+Imports: 
+  roxygen2,
+  devtools,
+  shiny.i18n,
+  glmnet,
+  tseries,
+  forecast,
+  imputeTS,
+  data.table,
+  dplyr,zoo,
+  orca,
+  xts,
+  lubridate,
+  stringr,
+  plotly

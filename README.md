@@ -49,6 +49,27 @@ Federal Ministry of Economic Affairs and Energy (BMWi)
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+Among other things, the users have the option to plot the forecasting errors of each of the individual forecasts entering the "meta-forecast".
+
+<!-- Teaser Image 1 -->
+<br />
+<p align="center">
+    <img src="https://github.com/BTU-EnerEcon/FOCCSI/blob/main/images/Teaser charts.png" alt="Logo">
+  </a>
+
+  <p align="center">
+ 
+ The users also have the option to plot the forecasting errors of the BTU "meta-forecast" (also known as DELNET) and the benchmarks such as the simple average or an initial combined forecast they already have in their data.
+ 
+  <!-- Teaser Image 2 -->
+<br />
+<p align="center">
+    <img src="https://github.com/BTU-EnerEcon/FOCCSI/blob/main/images/teaser chart 2.png" alt="Logo">
+  </a>
+
+  <p align="center">
+
+Additional plots examples could be found in the FOCCSI Meta Forecaster.
 This space is to show useful examples of how a project can be used. Screenshots and demos would work well in this space.
 
 <!-- Prerequisites -->
@@ -59,7 +80,7 @@ Supported browsers include: Google Chrome and Mozilla Firefox.
 <!-- USAGE EXAMPLES -->
 ### Registration
 
-Before acsessing the FOCCSI Meta Forecaster, users have to get registered with their preferred email address. In this step, users also have the option to choose their prefered language: english or german. The chosen language is then avaiable throughout the usage of the application and can not be changed afterwards. After registration, users will be sent a confirmation email from the address: , including their username and temporary passsword. Password can be updated after the first login. 
+Before acsessing the FOCCSI Meta Forecaster, users have to get registered with their preferred email address. In this step, users also have the option to choose their prefered language: english or german. The chosen language is then avaiable throughout the usage of the application and can not be changed afterwards. After registration, users will be sent a confirmation email from the address: fg-energiewirtschaft+foccsi@b-tu.de, including their username and temporary passsword. Password can be updated after the first login. 
 
 <!-- Registration Image -->
 <br />

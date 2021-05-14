@@ -59,7 +59,7 @@ Among other things, the users have the option to plot the forecasting errors of 
 
   <p align="center">
  
- The users also have the option to plot the forecasting errors of the BTU "meta-forecast" (also known as DELNET) and the benchmarks such as the simple average or an initial combined forecast they already have in their data.
+ The users also have the option to plot the forecasting errors of the BTU "meta-forecast" (also known as DELNET) and the benchmarks such as the simple average or an initial combined forecast they already have in their data. The number of forecasts entering the "meta-forecast" is also included in the figure.
  
   <!-- Teaser Image 2 -->
 <br />
@@ -70,7 +70,6 @@ Among other things, the users have the option to plot the forecasting errors of 
   <p align="center">
 
 Additional plots examples could be found in the FOCCSI Meta Forecaster.
-This space is to show useful examples of how a project can be used. Screenshots and demos would work well in this space.
 
 <!-- Prerequisites -->
 ### Prerequisites
@@ -91,20 +90,17 @@ Before acsessing the FOCCSI Meta Forecaster, users have to get registered with t
   <p align="center">
 
 
-<!-- LICENSE -->
-## License
-
-License
-
 <!-- CONTACT -->
 ## Contact
 
-Dragana's contacts, chair page.
+https://www.b-tu.de/en/fg-energiewirtschaft/ 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+This work has been realized in the framework of the public research project FOCCSI (Forecast Optimization by Correction and Combination methods for System Integration; 03ET4056) funded by the German Federal Ministry for Economic Affairs and Energy.
+
+The software development and interface has been undertaken by Duktil UG (Matthias Tylkowski and Alexandru Giurca).
+
+The R-Codes for the FOCCSI Meta Forecaster have been developed by Dr. Mathias Käso and Dr. Dragana Nikodinoska.
 

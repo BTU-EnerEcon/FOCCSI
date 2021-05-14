@@ -93,7 +93,7 @@ Before acsessing the FOCCSI Meta Forecaster, users have to get registered with t
 <!-- CONTACT -->
 ## Contact
 
-https://www.b-tu.de/en/fg-energiewirtschaft/ 
+https://www.b-tu.de/en/fg-energiewirtschaft/team/research-assistant
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements

@@ -42,7 +42,9 @@ Precise forecasts for the feed-in of fluctuating renewable energies and current 
 
 ### Cooperation and Funding: 
 
-Federal Ministry of Economic Affairs and Energy
+Transmission operator 50Hertz as associated cooperation partner
+
+Federal Ministry of Economic Affairs and Energy (BMWi)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -52,13 +54,13 @@ This space is to show useful examples of how a project can be used. Screenshots 
 <!-- Prerequisites -->
 ### Prerequisites
 
-if any (e.g. Browsers supported)
+Supported browsers include: Google Chrome and Mozilla Firefox.
 
 <!-- USAGE EXAMPLES -->
 ### Registration
 
+Before acsessing the FOCCSI Meta Forecaster, users have to get registered with their preferred email address. In this step, users also have the option to choose their prefered language: english or german. The chosen language is then avaiable throughout the usage of the application and can not be changed afterwards. After registration, users will be sent a confirmation email from the address: , including their username and temporary passsword. Password can be updated after the first login. 
 Maybe a snapshot of registration page?
-To skip if it does not require explanation
 
 
 <!-- LICENSE -->

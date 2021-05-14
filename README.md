@@ -60,7 +60,14 @@ Supported browsers include: Google Chrome and Mozilla Firefox.
 ### Registration
 
 Before acsessing the FOCCSI Meta Forecaster, users have to get registered with their preferred email address. In this step, users also have the option to choose their prefered language: english or german. The chosen language is then avaiable throughout the usage of the application and can not be changed afterwards. After registration, users will be sent a confirmation email from the address: , including their username and temporary passsword. Password can be updated after the first login. 
-Maybe a snapshot of registration page?
+
+<!-- Registration Image -->
+<br />
+<p align="center">
+    <img src="https://github.com/BTU-EnerEcon/FOCCSI/blob/main/images/registration.png" alt="Logo">
+  </a>
+
+  <p align="center">
 
 
 <!-- LICENSE -->

@@ -17,16 +17,15 @@ FOCCSI Meta forecaster allows users to combine individual forecasts of photovolt
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#prerequisites">Prerequisites</a></li>
-    </li>
+    <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#Methodology">Methodology</a></li></li>
+    <li><a href="#prerequisites">Prerequisites</a></li></li>
+    <li><a href="#registration">Registration</a></li></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#citing-us">Citing US</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#license">License</a></li>
   </ol>
 </details>
 

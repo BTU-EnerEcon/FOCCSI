@@ -8,7 +8,7 @@
   <h2 align="center">FOCCSI Meta Forecaster</h2>
 
   <p align="center">
-FOCCSI Meta forecaster allows users to combine individual forecasts of photovoltaic or wind feed-in into a meta forecast. The tool is open to all users interested to obtain more precise combined forecast of renewable energy.
+[FOCCSI Meta forecaster](https://nb5.ew.tu-cottbus.de/) allows users to combine individual forecasts of photovoltaic or wind feed-in into a meta forecast. The tool is open to all users interested to obtain more precise combined forecast of renewable energy.
   </p>
 </p>
 
@@ -73,7 +73,7 @@ Additional plots examples could be found in the FOCCSI Meta Forecaster.
 <!-- Methodology -->
 ### Methodology
 
-The FOCCSI Meta Forecaster is based on Dynamic Elastic Net (DELNET) Model with Dynamic Data Pre-Processing (DDP). Details on the metodology can be found here:
+The [FOCCSI Meta forecaster](https://nb5.ew.tu-cottbus.de/)  is based on Dynamic Elastic Net (DELNET) Model with Dynamic Data Pre-Processing (DDP). Details on the metodology can be found here:
 
 [DELNET](https://github.com/BTU-EnerEcon/FOCCSI/blob/main/Nikodinoska_DELNET.pdf)
 
@@ -85,7 +85,7 @@ Supported browsers include: Google Chrome and Mozilla Firefox.
 <!-- USAGE EXAMPLES -->
 ### Registration
 
-Before accsessing the FOCCSI Meta Forecaster, users have to get registered with their preferred email address. In this step, users also have the option to choose their prefered language: english or german. The chosen language is then avaiable throughout the usage of the application and can not be changed afterwards. After registration, users will be sent a confirmation email from the address: fg-energiewirtschaft+foccsi@b-tu.de, including their username and temporary passsword. Password can be updated after the first login. 
+Before accsessing the [FOCCSI Meta forecaster](https://nb5.ew.tu-cottbus.de/) , users have to get registered with their preferred email address. In this step, users also have the option to choose their prefered language: English or German. The chosen language is then avaiable throughout the usage of the application and can not be changed afterwards. After registration, users will be sent a confirmation email from the address: fg-energiewirtschaft+foccsi@b-tu.de, including their username and temporary passsword. Password can be updated after the first login. 
 
 <!-- Registration Image -->
 <br />
@@ -106,13 +106,13 @@ Prof. Felix Müsgens: https://www.b-tu.de/en/fg-energiewirtschaft/team/chairhold
 
 This work has been realized in the framework of the public research project FOCCSI (Forecast Optimization by Correction and Combination methods for System Integration; 03ET4056) funded by the German Federal Ministry for Economic Affairs and Energy. 
 
-Methodology for the FOCCSI Meta Forecaster have been developed by Dr. Mathias Käso and Dr. Dragana Nikodinoska.
+Methodology for the [FOCCSI Meta forecaster](https://nb5.ew.tu-cottbus.de/)  have been developed by Dr. Mathias Käso and Dr. Dragana Nikodinoska.
 
 The user interface and software development has been undertaken by Duktil UG (Matthias Tylkowski and Alexandru Giurca).
 
 ## Citing us
 
-If you use FOCCSI Meta Forecaster, we would appreciate it if you would cite the following paper:
+If you use [FOCCSI Meta forecaster](https://nb5.ew.tu-cottbus.de/), we would appreciate it if you would cite the following paper:
 
 * [reference to paper]
 

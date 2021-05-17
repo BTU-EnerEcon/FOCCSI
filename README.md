@@ -98,9 +98,11 @@ https://www.b-tu.de/en/fg-energiewirtschaft/team/research-assistant
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-This work has been realized in the framework of the public research project FOCCSI (Forecast Optimization by Correction and Combination methods for System Integration; 03ET4056) funded by the German Federal Ministry for Economic Affairs and Energy.
+This work has been realized in the framework of the public research project FOCCSI (Forecast Optimization by Correction and Combination methods for System Integration; 03ET4056) funded by the German Federal Ministry for Economic Affairs and Energy. 
+
+Methodology for the FOCCSI Meta Forecaster have been developed by Dr. Mathias Käso and Dr. Dragana Nikodinoska.
 
 The user interface and software development has been undertaken by Duktil UG (Matthias Tylkowski and Alexandru Giurca).
 
-The R-Codes for the FOCCSI Meta Forecaster have been developed by Dr. Mathias Käso and Dr. Dragana Nikodinoska.
+
 

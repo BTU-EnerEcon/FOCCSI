@@ -20,6 +20,7 @@ FOCCSI Meta Forecaster tool allows users to combine individual forecasts of phot
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#Methodology">Methodology</a></li></li>
+    <li><a href="#Under-the-hood">Under the hood</a></li></li>
     <li><a href="#prerequisites">Prerequisites</a></li></li>
     <li><a href="#registration">Registration</a></li></li>
     <li><a href="#contact">Contact</a></li>
@@ -70,6 +71,29 @@ Among other things, the users have the option to plot the forecasting errors of 
 
 More features and examples could be found in the [FOCCSI Meta Forecaster](https://nb5.ew.tu-cottbus.de/) web-page.
 
+<!-- UNDER THE HOOD -->
+### Under the hood
+
+The [FOCCSI Meta Forecaster](https://nb5.ew.tu-cottbus.de/)  is written and tested to be compatible with R 4.0.4 and 4.0.3. 
+It relies heavily on the following R packages:
+
+•	shiny.i18n
+
+•	glmnet
+
+•	tseries
+
+•	forecast
+
+•	imputeTS
+
+•	data.table
+
+•	dplyr
+
+•	stringr
+
+
 <!-- METHODOLOGY -->
 ### Methodology
 
@@ -80,7 +104,7 @@ The [FOCCSI Meta Forecaster](https://nb5.ew.tu-cottbus.de/)  is based on Dynamic
 <!-- Prerequisites -->
 ### Prerequisites
 
-Supported browsers include: Google Chrome and Mozilla Firefox.
+Supported browsers include: Google Chrome, Mozilla Firefox and Microsoft Edge.
 
 <!-- USAGE EXAMPLES -->
 ### Registration

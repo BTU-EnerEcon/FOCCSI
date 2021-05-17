@@ -93,7 +93,7 @@ Before accsessing the FOCCSI Meta Forecaster, users have to get registered with 
 <!-- CONTACT -->
 ## Contact
 
-https://www.b-tu.de/en/fg-energiewirtschaft/team/research-assistant
+Prof. Felix Müsgens: https://www.b-tu.de/en/fg-energiewirtschaft/team/chairholder
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements

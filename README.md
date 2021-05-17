@@ -57,7 +57,7 @@ Among other things, the users have the option to plot the forecasting errors of 
 
   <p align="center">
  
- The users also have the option to plot the forecasting errors of the BTU "meta-forecast" (also known as DELNET) and the benchmarks such as the simple average or an initial combined forecast they already have in their data. The number of forecasts entering the "meta-forecast" is also included in the figure.
+The users also have the option to plot the forecasting errors of the BTU "meta-forecast" (also known as DELNET) and the benchmarks such as the simple average or an initial combined forecast they already have in their data. The number of forecasts entering the "meta-forecast" is also included in the Figure.
  
   <!-- Teaser Image 2 -->
 <br />

@@ -8,7 +8,7 @@
   <h2 align="center">FOCCSI Meta Forecaster</h2>
 
   <p align="center">
-[FOCCSI Meta forecaster](https://nb5.ew.tu-cottbus.de/) allows users to combine individual forecasts of photovoltaic or wind feed-in into a meta forecast. The tool is open to all users interested to obtain more precise combined forecast of renewable energy.
+FOCCSI Meta forecaster allows users to combine individual forecasts of photovoltaic or wind feed-in into a meta forecast. The tool is open to all users interested to obtain more precise combined forecast of renewable energy.
   </p>
 </p>
 
@@ -68,7 +68,7 @@ Among other things, the users have the option to plot the forecasting errors of 
 
   <p align="center">
 
-Additional plots examples could be found in the FOCCSI Meta Forecaster.
+Additional plots examples could be found in the [FOCCSI Meta forecaster](https://nb5.ew.tu-cottbus.de/) examples.
 
 <!-- Methodology -->
 ### Methodology

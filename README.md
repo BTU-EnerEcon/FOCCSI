@@ -71,6 +71,13 @@ Among other things, the users have the option to plot the forecasting errors of 
 
 Additional plots examples could be found in the FOCCSI Meta Forecaster.
 
+<!-- Methodology -->
+### Methodology
+
+The FOCCSI Meta Forecaster is based on Dynamic Elastic Net (DELNET) Model with Dynamic Data Pre-Processing (DDP). Details on the metodology can be found here:
+
+[DELNET](https://github.com/BTU-EnerEcon/FOCCSI/blob/main/Nikodinoska_DELNET.pdf")
+
 <!-- Prerequisites -->
 ### Prerequisites
 

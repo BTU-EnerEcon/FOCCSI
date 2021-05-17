@@ -22,6 +22,7 @@ FOCCSI Meta Forecaster tool allows users to combine individual forecasts of phot
     <li><a href="#Methodology">Methodology</a></li></li>
     <li><a href="#prerequisites">Prerequisites</a></li></li>
     <li><a href="#registration">Registration</a></li></li>
+    <li><a href="#contact">Contact</a></li>
     <li><a href="#citing-us">Citing US</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
     <li><a href="#license">License</a></li>
@@ -57,7 +58,7 @@ Among other things, the users have the option to plot the forecasting errors of 
 
   <p align="center">
  
-The users also have the option to plot the forecasting errors of the BTU "meta-forecast" (also known as DELNET) and the benchmarks such as the simple average or an initial combined forecast they already have in their data. The number of forecasts entering the "meta-forecast" is also included in the Figure.
+ The users also have the option to plot the forecasting errors of the BTU "meta-forecast" (also known as DELNET) and the benchmarks such as the simple average or an initial combined forecast they already have in their data. The number of forecasts entering the "meta-forecast" is also included in the figure.
  
   <!-- Teaser Image 2 -->
 <br />
@@ -69,7 +70,7 @@ The users also have the option to plot the forecasting errors of the BTU "meta-f
 
 More features and examples could be found in the [FOCCSI Meta Forecaster](https://nb5.ew.tu-cottbus.de/) web-page.
 
-<!-- Methodology -->
+<!-- METHODOLOGY -->
 ### Methodology
 
 The [FOCCSI Meta Forecaster](https://nb5.ew.tu-cottbus.de/)  is based on Dynamic Elastic Net (DELNET) Model with Dynamic Data Pre-Processing (DDP). Details on the metodology can be found here:
@@ -96,6 +97,10 @@ Before accsessing the [FOCCSI Meta Forecaster](https://nb5.ew.tu-cottbus.de/) , 
 
 
 <!-- CONTACT -->
+## Contact
+
+Prof. Felix Müsgens: https://www.b-tu.de/en/fg-energiewirtschaft/team/chairholder
+
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -106,7 +111,6 @@ Methodology for the [FOCCSI Meta Forecaster](https://nb5.ew.tu-cottbus.de/)  hav
 
 The user interface and software development has been undertaken by Duktil UG (Matthias Tylkowski and Alexandru Giurca).
 
-Contact person: [Prof. Felix Müsgens](https://www.b-tu.de/en/fg-energiewirtschaft/team/chairholder)
 
 ## Citing us
 
@@ -121,7 +125,7 @@ Please use the following BibTeX: ::
    }
 
 
-## Licence
+## License
 
 Copyright 2021 Felix Müsgens, Dragana Nikodinoska, Mathias Käso (BTU)
 

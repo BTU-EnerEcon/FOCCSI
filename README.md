@@ -8,7 +8,7 @@
   <h2 align="center">FOCCSI Meta Forecaster</h2>
 
   <p align="center">
-FOCCSI Meta forecaster allows users to combine individual forecasts of photovoltaic or wind feed-in into a meta forecast. The tool is open to all users interested to obtain more precise combined forecast of renewable energy.
+FOCCSI Meta Forecaster tool allows users to combine individual forecasts of photovoltaic or wind feed-in into a meta forecast. The tool is open to all users interested to obtain more precise combined forecast of renewable energy.
   </p>
 </p>
 
@@ -101,6 +101,7 @@ Before accsessing the [FOCCSI Meta forecaster](https://nb5.ew.tu-cottbus.de/) , 
 
 Prof. Felix Müsgens: https://www.b-tu.de/en/fg-energiewirtschaft/team/chairholder
 
+
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
@@ -109,6 +110,7 @@ This work has been realized in the framework of the public research project FOCC
 Methodology for the [FOCCSI Meta forecaster](https://nb5.ew.tu-cottbus.de/)  have been developed by Dr. Mathias Käso and Dr. Dragana Nikodinoska.
 
 The user interface and software development has been undertaken by Duktil UG (Matthias Tylkowski and Alexandru Giurca).
+
 
 ## Citing us
 
@@ -121,6 +123,7 @@ Please use the following BibTeX: ::
    @article{
    BibTex
    }
+
 
 ## Licence
 

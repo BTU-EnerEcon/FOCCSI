@@ -22,7 +22,6 @@ FOCCSI Meta Forecaster tool allows users to combine individual forecasts of phot
     <li><a href="#Methodology">Methodology</a></li></li>
     <li><a href="#prerequisites">Prerequisites</a></li></li>
     <li><a href="#registration">Registration</a></li></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#citing-us">Citing US</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
     <li><a href="#license">License</a></li>
@@ -97,10 +96,6 @@ Before accsessing the [FOCCSI Meta Forecaster](https://nb5.ew.tu-cottbus.de/) , 
 
 
 <!-- CONTACT -->
-## Contact
-
-Prof. Felix Müsgens: https://www.b-tu.de/en/fg-energiewirtschaft/team/chairholder
-
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -111,6 +106,7 @@ Methodology for the [FOCCSI Meta Forecaster](https://nb5.ew.tu-cottbus.de/)  hav
 
 The user interface and software development has been undertaken by Duktil UG (Matthias Tylkowski and Alexandru Giurca).
 
+Contact person: [Prof. Felix Müsgens](https://www.b-tu.de/en/fg-energiewirtschaft/team/chairholder)
 
 ## Citing us
 

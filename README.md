@@ -104,5 +104,20 @@ Methodology for the FOCCSI Meta Forecaster have been developed by Dr. Mathias K�
 
 The user interface and software development has been undertaken by Duktil UG (Matthias Tylkowski and Alexandru Giurca).
 
+## Citing us
 
+If you use FOCCSI Meta Forecaster, we would appreciate it if you would cite the following paper:
 
+* [reference to paper]
+
+Please use the following BibTeX: ::
+
+   @article{
+   BibTex
+   }
+
+## Licence
+
+Copyright 2021 Felix Müsgens, Dragana Nikodinoska, Mathias Käso (BTU)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />The FOCCSI Meta Forecaster tool is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> that provides everyone with free and perpetual permission to access, edit and share copies of this software.

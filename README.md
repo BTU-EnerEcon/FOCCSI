@@ -140,14 +140,15 @@ The user interface and software development has been undertaken by Duktil UG (Ma
 
 If you use [FOCCSI Meta Forecaster](https://nb5.ew.tu-cottbus.de/), we would appreciate it if you would cite the following paper:
 
-* [reference to paper]
-
-Please use the following BibTeX: ::
-
-   @article{
-   BibTex
-   }
-
+Dragana Nikodinoska, Mathias Käso, Felix Müsgens,
+Solar and wind power generation forecasts using elastic net in time-varying forecast combinations,
+Applied Energy,
+Volume 306, Part A,
+2022,
+117983,
+ISSN 0306-2619,
+https://doi.org/10.1016/j.apenergy.2021.117983.
+(https://www.sciencedirect.com/science/article/pii/S0306261921012861)
 
 ## License
 
